@@ -1,2 +1,1 @@
-# jervis.py
-A Fully Offline, Fast, Real-Time Voice Assistant Powered by Whisper + VAD
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Whisper-Faster--Whisper-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p>
